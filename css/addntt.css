@@ -1,0 +1,31 @@
+.addnttform {
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.updtntt {
+    background-color: yellowgreen;
+    color: white;
+    padding: 20px;
+}
+
+.updtntt:hover {
+    background-color: yellowgreen;
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.wall {
+    background-color: sandybrown;
+    color: white;
+    padding: 20px;
+}
+
+.wall:hover {
+    background-color: sandybrown;
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}

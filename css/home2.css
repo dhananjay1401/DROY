@@ -1,0 +1,171 @@
+.addbtn {
+    background-color: rgb(130, 33, 175);
+    color: white;
+    padding: 20px;
+    width: 90px;
+}
+
+.addbtn:hover {
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.addntt {
+    background-color: teal;
+    color: white;
+    padding: 20px;
+}
+
+.addntt:hover {
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.logout {
+    background-color: tomato;
+    color: white;
+    padding: 20px;
+}
+
+.logout:hover {
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.updtntt {
+    background-color: yellowgreen;
+    color: white;
+    padding: 20px;
+}
+
+.updtntt:hover {
+    background-color: yellowgreen;
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.wall {
+    background-color: sandybrown;
+    color: white;
+    padding: 20px;
+}
+
+.wall:hover {
+    background-color: sandybrown;
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.showmore {
+    color: white;
+    padding: 20px;
+}
+
+.addmore {
+    background-color: sandybrown;
+    color: white;
+    padding: 20px;
+}
+
+.addmore:hover {
+    background-color: sandybrown;
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.adrmndr {
+    background-color: rgb(105, 12, 182);
+    color: white;
+    padding: 20px;
+}
+
+.adrmndr:hover {
+    background-color: rgb(105, 12, 182);
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.adtodo {
+    background-color: rgb(54, 29, 199);
+    color: white;
+    padding: 20px;
+}
+
+.adtodo:hover {
+    background-color: rgb(54, 29, 199);
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.adlog {
+    background-color: rgb(70, 219, 107);
+    color: white;
+    padding: 20px;
+}
+
+.adlog:hover {
+    background-color: rgb(70, 219, 107);
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.personal-info {
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+}
+
+.myimgstyle {
+    width: 125px;
+    text-align: center;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.modulelist {
+    text-align: right;
+    align-items: right;
+    justify-content: right;
+}
+
+.heading {
+    font-family: 'Righteous', cursive;
+    animation: fadeInAnimation ease 0.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.trngldta {
+    background-color: rgb(27, 218, 52);
+    color: white;
+    padding: 20px;
+}
+
+.trngldta:hover {
+    background-color: rgb(27, 218, 52);
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.scrollBar {
+    max-height: 290px;
+    overflow-y: scroll;
+}

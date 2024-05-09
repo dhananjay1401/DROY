@@ -1,0 +1,56 @@
+.heading {
+    font-family: 'Righteous', cursive;
+    animation: fadeInAnimation ease 0.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.form-center-align {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signin-form {
+    text-align: center;
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.signup-form {
+    text-align: center;
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes troyai-anim {
+    from {
+        box-shadow: 0 0 0 10px #d23e3e, 0 0 0 50px #5f1f1f;
+    }
+    to {
+        box-shadow: 0 0 0 45px #d23e3e, 0 0 0 15px #5f1f1f;
+    }
+}
+
+.troyai-anim {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 10px #d23e3e, 0 0 0 40px #5f1f1f;
+    animation: troyai-anim 1.0s infinite ease-in-out alternate;
+}
+
+@keyframes fadeInAnimation {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

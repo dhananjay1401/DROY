@@ -1,0 +1,69 @@
+    .kontent {
+        text-align: center;
+    }
+    
+    .heading {
+        font-family: 'Righteous', cursive;
+        animation: fadeInAnimation ease 0.5s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+    }
+    
+    .crd {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+        width: 40%;
+        height: 20px;
+    }
+    
+    .crd:hover {
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    }
+    
+    .continer {
+        padding: 2px 16px;
+    }
+    
+    .pane {
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .updtntt {
+        background-color: yellowgreen;
+        color: white;
+        padding: 20px;
+    }
+    
+    .updtntt:hover {
+        background-color: yellowgreen;
+        color: white;
+        font-weight: bolder;
+        padding: 20px;
+    }
+    
+    .addntt {
+        background-color: teal;
+        color: white;
+        padding: 20px;
+    }
+    
+    .addntt:hover {
+        color: white;
+        font-weight: bolder;
+        padding: 20px;
+    }
+    
+    .wall {
+        background-color: sandybrown;
+        color: white;
+        padding: 20px;
+    }
+    
+    .wall:hover {
+        background-color: sandybrown;
+        color: white;
+        font-weight: bolder;
+        padding: 20px;
+    }
