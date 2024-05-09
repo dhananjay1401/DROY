@@ -1,0 +1,36 @@
+How Close ?
+
+very far - 1
+same gym/places - 3
+same class also - 5
+lunch on same table - 7
+same bed - 10
+____________________________
+
+How long ?
+
+couple of  sec - 1
+couple of min -3
+half to 1 hr -5
+couple of hr-7
+most time -10
+____________________________
+
+How Frequent ?
+
+First time with no more chances - 1
+once every month - 3
+once every week - 5
+twice a week - 7
+every day - 10
+____________________________
+
+How Emotional ?
+
+No Emotions - 1
+Few Emotions - 3
+laugh together Close friends - 5
+genuine compliments by heart - 7
+strongly emotinal connection - 10
+____________________________
+
