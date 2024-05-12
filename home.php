@@ -18,7 +18,7 @@
                             if(isset($_SESSION['contact_number']))
                             {
                                 $flag1=1;
-                                includ 'includes/dbh.php';
+                                include 'includes/dbh.php';
                                 include 'includes/verifyDate.php';
                                 include 'includes/checkDates.php';
                             }
