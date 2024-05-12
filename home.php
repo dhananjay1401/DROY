@@ -4,7 +4,7 @@
 <html>
    <head>
       <title>
-         <?php
+         <?ph
             $flag1=0;
             session_start();
             if(isset($_SESSION['id']))
